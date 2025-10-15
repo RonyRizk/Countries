@@ -1,0 +1,8 @@
+.CountryFlag 
+{
+  border:1px solid ;
+  width:200px;
+  height: 200px;
+  border-radius: 50%;
+  margin:5px;
+}

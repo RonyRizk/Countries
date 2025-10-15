@@ -1,0 +1,50 @@
+  /* class */
+  /* It Targets all paragraph tags */
+  p 
+  {
+   color:blue;
+  }
+
+  /* Hash Selector (By ID) */
+  #reine
+  {
+    color:red;
+  }
+
+  .myCustomClass 
+  {
+    color:green;
+    background-color: yellow;
+  }
+
+
+  h1 
+  {
+    color:black;
+  }
+
+  #Andrew
+  {
+    color:green
+  }
+
+  /* body 
+  {
+    font-size: 12px;text-align: center;text-transform: uppercase;
+  } */
+
+  .ParentDiv 
+  {
+     background-color: green;
+  }
+
+  .MyDiv
+  {
+    width:200px;
+    height:200px;
+    background-color: yellow;
+    border:5px solid black;
+    margin:20px;
+    padding: 10px;
+    border-radius: 50%;
+  }
